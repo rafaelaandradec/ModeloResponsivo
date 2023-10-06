@@ -80,17 +80,6 @@ figure{
 }
 }
 
-#compras{
-    background-color: #ffff00;
-    width: 150px;
-    height: 100px;
-    right: 0;
-    position: fixed;
-    text-align: center;
-    margin-top: 6rem;
-    z-index: 1;
-}
-
 #grid-conteudo{
     background-color: #dcdcdc;
 }
